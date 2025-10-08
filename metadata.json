@@ -1,0 +1,5 @@
+{
+  "name": "British Powerlifting Records Hub",
+  "description": "A centralized, searchable database for regional powerlifting records across Great Britain. This application provides a public portal for viewing and filtering records, and a private admin portal for manual data entry and management.",
+  "requestFramePermissions": []
+}
